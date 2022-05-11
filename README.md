@@ -1,1 +1,2 @@
-[Deploy to Azure Spring Apps](https://requestbin.io/11w55781)
+[![Deploy](./deploy.svg)](https://requestbin.io/11w55781)
+
